@@ -58,4 +58,5 @@ while True:
         print("The above array displayed contains path to the images only with the known faces....")
         print("There are total ", len(li)," number of images found containig the known face.")
         break
-        
+
+
